@@ -1,0 +1,9 @@
+{
+  "id": "org.tmdb.fr",
+  "version": "1.0.0",
+  "name": "TMDB FR Metadata",
+  "description": "Métadonnées en français depuis TMDB",
+  "resources": ["meta"],
+  "types": ["movie", "series"],
+  "idPrefixes": ["tt"]
+}
